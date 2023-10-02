@@ -49,11 +49,24 @@ video {
 .row > [class^=col-] {
   padding-top: 12px;
   padding-bottom: 12px;
-  background-color: rgba(86, 61, 124, .15);
-  border: 1px solid rgba(86, 61, 124, .2);
+  background-color: rgba(77, 11, 176, 0.576);
+  border: 1px solid rgba(7, 5, 10, 0.703);
 } 
 /**/
 
 hr {
   margin: 20px 0 20px 0;
+}
+
+.page-header {
+  background: black;
+  color: white;
+}
+
+.page-content {
+  background: #F0E0FF;
+}
+
+.page-footer {
+  background: #92DCE5;
 }
